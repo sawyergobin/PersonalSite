@@ -235,6 +235,7 @@
     <Content Include="assets\vendor\remixicon\remixicon.ttf" />
     <Content Include="assets\vendor\remixicon\remixicon.woff" />
     <Content Include="assets\vendor\remixicon\remixicon.woff2" />
+    <Content Include="assets\downloadable\SGDungeonApplication %282%29.zip" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
