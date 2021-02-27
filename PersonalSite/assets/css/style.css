@@ -19,7 +19,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/blue-rocks-background-PNG.png") top right no-repeat;
+  background: #040404 url("../img/blue-rocks-background-PNG.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
@@ -659,6 +659,7 @@ section .container {
   text-align: center;
   background: rgba(204, 204, 204, 0.1);
   padding: 80px 20px;
+  margin: 5px;
   transition: all ease-in-out 0.3s;
 }
 
@@ -1160,6 +1161,18 @@ section .container {
   font-size: 13px;
   color: #fff;
   z-index: 999999;
+  
+}
+
+.credits a {
+  color: #18d26e;
+  transition: 0.3s;
+}
+
+.credits a:hover {
+  color: #fff;
+}
+
 }
 
 @media (max-width: 992px) {

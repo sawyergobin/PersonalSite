@@ -68,11 +68,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\css\style.css" />
-    <Content Include="assets\img\apple-touch-icon.png" />
-    <Content Include="assets\img\bg.jpg" />
-    <Content Include="assets\img\blue-rocks-background-PNG.png" />
+    <Content Include="assets\img\blue-rocks-background-JPEG.jpg" />
+    <Content Include="assets\img\linksImages\CentriqLogo.png" />
+    <Content Include="assets\img\linksImages\JordanLink.jpg" />
+    <Content Include="assets\img\linksImages\SarahLink.jpg" />
+    <Content Include="assets\img\myImages\Me %28jpg%29.jpg" />
     <Content Include="assets\img\favicon.png" />
-    <Content Include="assets\img\me.png" />
     <Content Include="assets\img\portfolio\portfolio-1.jpg" />
     <Content Include="assets\img\portfolio\portfolio-2.jpg" />
     <Content Include="assets\img\portfolio\portfolio-3.jpg" />
@@ -236,6 +237,7 @@
     <Content Include="assets\vendor\remixicon\remixicon.woff" />
     <Content Include="assets\vendor\remixicon\remixicon.woff2" />
     <Content Include="assets\downloadable\SGDungeonApplication %282%29.zip" />
+    <Content Include="assets\downloadable\SawyerGobinResumeIT.pdf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -267,6 +269,7 @@
     <Content Include="_Archive\Personal\assets\vendor\remixicon\remixicon.woff" />
     <Content Include="_Archive\Personal\assets\vendor\remixicon\remixicon.woff2" />
   </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
