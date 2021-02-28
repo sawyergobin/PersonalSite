@@ -70,6 +70,7 @@
     <Content Include="assets\css\style.css" />
     <Content Include="assets\img\blue-rocks-background-JPEG.jpg" />
     <Content Include="assets\img\linksImages\CentriqLogo.png" />
+    <Content Include="assets\img\linksImages\JesseLink.jpg" />
     <Content Include="assets\img\linksImages\JordanLink.jpg" />
     <Content Include="assets\img\linksImages\SarahLink.jpg" />
     <Content Include="assets\img\myImages\Me %28jpg%29.jpg" />
