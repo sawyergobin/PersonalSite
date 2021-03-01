@@ -96,20 +96,25 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
 }
 
+#header .landing-text {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 1.2em;
+}
+
 #header .social-links {
   margin-top: 40px;
   display: flex;
 }
 
 #header .social-links a {
-  font-size: 16px;
+  font-size: 18px;
   display: flex;
   justify-content: center;
   align-items: center;
   background: rgba(255, 255, 255, 0.1);
   color: #fff;
   line-height: 1;
-  margin-right: 8px;
+  margin-right: 10px;
   border-radius: 50%;
   width: 40px;
   height: 40px;
@@ -653,7 +658,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Services
+# Services (Links)
 --------------------------------------------------------------*/
 .services .icon-box {
   text-align: center;
